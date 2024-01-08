@@ -29,9 +29,9 @@ At the end of the course, students will be able to
 6. Weather prediction
 
 ## References
-1. Steven Skiena, “Data Science Design Manual”, Springer International Publishing AG
-2. Samir Madhavan. “Mastering Python for Data Science”, PACKT Publishing
-3. Jake VanderPlas. “Python Data Science Handbook”, O’Reilly Publications.
+1. [Steven Skiena, “Data Science Design Manual”, Springer International Publishing AG](https://www.webpages.uidaho.edu/~stevel/517/The%20Data%20Science%20Design%20Manual.pdf)
+2. [Samir Madhavan. “Mastering Python for Data Science”, PACKT Publishing](https://github.com/xinwf/Study-Materials/blob/master/Samir%20Madhavan%20-%20Mastering%20Python%20for%20Data%20Science%20-%202015.pdf)
+3. [Jake VanderPlas. “Python Data Science Handbook”, O’Reilly Publications.](https://github.com/terencetachiona/Python-Data-Science-Handbook/blob/master/Python%20Data%20Science%20Handbook%20-%20Jake%20VanderPlas.pdf)
 
 ## Useful Links
 1. [https://www.coursera.org/specializations/applied-data-science( using Python)](https://www.coursera.org/specializations/applied-data-science)
@@ -39,4 +39,4 @@ At the end of the course, students will be able to
 3. [https://www.coursera.org/learn/ds](https://www.coursera.org/learn/ds)
 
 ## Acknowledgements
-* This material was prepared as a part of Applied Data Science Lab offered by the Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated to the University of Mumbai) to the Fourth Year Computer Engineering Students.
+* This material was prepared as a part of the Applied Data Science Lab offered by the Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated with the University of Mumbai) to Fourth Year Computer Engineering Students.
