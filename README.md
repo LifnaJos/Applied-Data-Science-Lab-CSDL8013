@@ -12,7 +12,7 @@ At the end of the course, students will be able to
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
 | 1. | Explore the descriptive and inferential statistics on the given dataset. | LO1,LO2 |
-| 2. | Apply data cleaning techniques (e.g. Data Imputation) | LO1, LO2 |
+| 2. | [Apply data cleaning techniques (e.g. Data Imputation)](https://github.com/LifnaJos/CSDL8013-Applied-Data-Science-Lab/blob/main/Colab%20Notebooks/Exp_2_Data_Imputation.md) | LO1, LO2 |
 | 3. | Explore data visualization techniques. | LO3 |
 | 4. | Implement  and  explore performance evaluation metrics for Data Models (Supervised/Unsupervised Learning)  | LO2, LO3 |
 | 5. | Use SMOTE technique to generate synthetic data.(to solve the problem of class imbalance) | LO3 |
