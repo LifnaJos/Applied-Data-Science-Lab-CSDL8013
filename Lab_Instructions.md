@@ -17,7 +17,7 @@ At the end of the course, students will be able to
 | 4. | [Implement  and  explore performance evaluation metrics for Data Models (Supervised/Unsupervised Learning)](https://github.com/LifnaJos/CSDL8013-Applied-Data-Science-Lab/blob/main/Colab%20Notebooks/Exp_4_Evaluate_Data_Models.md)  | LO2, LO3 |
 | 5. | Use SMOTE technique to generate synthetic data.(to solve the problem of class imbalance) | LO3 |
 | 6. | Outlier detection using distance-based/density-based method  | LO2, LO3 |
-| 7. | Implement time series forecasting. | LO4 |
+| 7. | [Implement time series forecasting.]() | LO4 |
 | 8. | Illustrate the data science lifecycle for the selected case study. (Prepare case study document for the selected case study  | LO4 |
 
 ## Suggested Case Studies:
